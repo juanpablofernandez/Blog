@@ -1,24 +1,17 @@
-# README
+# Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Blog using Ruby on Rails following Mackenzie Child's video series https://mackenziechild.me/12-in-12.
 
-Things you may want to cover:
+Features:
 
-* Ruby version
+* Make a blog post
 
-* System dependencies
+* Comment on a blog post
 
-* Configuration
+* Delete comments
 
-* Database creation
+* Delete a blog post
 
-* Database initialization
+* Edit a blog post
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* User Sessions
